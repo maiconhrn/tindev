@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/maiconhrn/tindev-backend.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/maiconhrn/tindev-webapp.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/maiconhrn/tindev-mobile.git
